@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/teal_700"
+    tools:context=".Booking">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="                Booking \n\n  Available Restaurants:\n\n    - Backyard Cafe\nOpen till 10 pm\n\n    - Delhi Barbeque\nOpen till 11pm\n\n    - McDonald's\nOpen all night\n\n    - KFC\n Open all night\n\n    - Burger King\nOpen all night\n\n    -Imperial Garden\nOpen till 12am\n\n     - Paneer Palace\nOpen till 1 am\n\n    - Royal Chai\nOpen till 9 pm\n\n    - Biryani Grill\nOpen till 12 am"
+        android:textSize="22dp"
+        android:layout_gravity="center"
+        android:textColor="@color/white"/>
+
+</FrameLayout>

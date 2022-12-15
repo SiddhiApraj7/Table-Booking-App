@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Profile">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="                Profile \n\n\n  Name : XYZ\n\n  Contact: xxxxxxxxxx\n\n  Email Id: xyz@gmail.com\n\n  Favourite Restaurants:\n    1.Maharaja\n    2.Delhi Barbeque\n    3.Royal Spice King\n    4.Imperial Garden"
+        android:textSize="26dp"
+        android:layout_gravity="center"
+        android:textColor="@color/teal_700"
+        />
+
+
+</FrameLayout>
